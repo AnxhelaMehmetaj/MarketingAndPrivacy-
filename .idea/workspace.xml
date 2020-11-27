@@ -12,11 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="onlinesecurity.html" />
-      </map>
-    </option>
+
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1koBVIru0LyfxC0to8j8FgVXhN4" />
@@ -40,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606357086463</updated>
-      <workItem from="1606357087544" duration="22288000" />
+      <workItem from="1606357087544" duration="22641000" />
     </task>
     <task id="LOCAL-00001" summary="file changed">
       <created>1606385094576</created>
